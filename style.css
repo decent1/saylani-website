@@ -1,0 +1,204 @@
+
+.list {
+    display: inline-block;
+}
+img{
+   margin-left: 35px ;
+}
+
+header{
+    height: 60px;
+    background-color: royalblue;
+}
+
+.First{
+    
+   margin: 0px 40px 0px 120px;
+   float: left;
+    
+}
+.second{
+   
+   
+    margin: 0px 40px 0px 40px;
+   float: left;
+}
+.third{
+   
+    
+    margin: 0px 40px 0px 40px;
+    float: left;
+}
+.logo{
+    margin: 15px 100px 0px 150px;
+    float: left;
+   
+
+}
+.items{
+    margin: 5px 100px 0px 100px;
+    
+    float: left;
+}
+.space{
+    display: inline-block;
+    padding: 10px
+}
+.part3{
+    width: 100%;
+    height: 100%;
+    
+    
+}
+.headline{
+background-color: royalblue;
+height: 30px;
+margin: 5px 200px 0px 200px;
+}
+
+.intro{
+    background-color: whitesmoke;
+    text-align: center;
+
+}
+#bck{
+    background-color: whitesmoke;
+}
+
+.para{
+    
+    text-align: justify;
+    margin: 0px 300px 0px 300px;
+    
+    font-size: 15px;
+    color: black;
+}
+.h1{
+    padding: 70px 10px 30px 100px;
+   
+    float: left;
+    
+}
+.h2{
+    padding: 70px 10px 30px 100px;
+    
+    float: left;
+    
+}
+.h3{
+    padding: 70px 10px 30px 100px;
+    
+    float: left;
+   
+}
+.h4{
+    padding: 70px 10px 30px 100px;
+    
+    float: left;
+}
+.font{
+    
+    font-size: 40px;
+    
+}
+.font1{
+    font-size: 15px;
+}
+
+.facility{
+   
+    background-color: royalblue;
+    height: 300px;
+    
+}
+.center{
+  
+    color: blue;
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.center1{
+    text-align: center;
+  
+    
+}
+.color{
+    color: lawngreen;
+}
+.borderspace{
+    border-spacing: 20px 20px ;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+.box{
+    background-color: white;
+    width: 400px;
+    height: 150px;
+   box-shadow: 2px 2px;
+   color: gray;
+   text-align: center; 
+}
+.weight{
+    font-weight: 600px;
+    font-size: 20px;
+    color: royalblue;
+    
+}
+
+.pad{
+    padding: 20px 0px 2px 0px;
+}
+.align{
+    border-spacing: 20px 20px ;
+}
+.mission1{
+    
+   
+     padding-left: 100px;
+     margin-left: 200px;
+     float: left;  
+}
+.MAUP{
+    color: blue;
+
+}
+.mission2{
+   
+    
+   margin-left: 30px;
+    float: left;
+}
+.adjust{
+    width: 250px;
+    height: 200px;
+    text-align: justify;
+    
+}
+.msn{
+    width: 250px;
+    font: 10px;
+    box-shadow: 2px 2px;
+    color: grey;
+    background-color: whitesmoke; 
+}
+
+
+a:link{
+    text-decoration: none;
+    color: blue;
+}
+a:hover{
+    color:black
+}
+.gallery{
+    text-align: center;
+}
+.blueclr{
+    color: blue;
+}
+.greenclr{
+    color: green;
+}
